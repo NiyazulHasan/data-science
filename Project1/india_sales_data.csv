@@ -1,0 +1,11 @@
+Order_ID,Order_Date,Ship_Date,Customer_ID,Customer_Name,Product_ID,Product_Name,Category,Sub_Category,Region,State,City,Sales,Quantity,Discount,Profit
+IN-2025-101122,12-01-25,15-01-25,AA-10125,Aarav Sharma,FUR-BO-10001798,Godrej Interio Wooden Bookcase,Furniture,Bookcases,North,Delhi,New Delhi,18500,2,0,3100
+IN-2025-102344,18-02-25,22-02-25,KP-15200,Kriti Patel,OFF-LA-10000240,Oddy Self-Adhesive Address Labels,Office Supplies,Labels,West,Gujarat,Ahmedabad,450,5,0,120
+IN-2025-104556,05-03-25,10-03-25,VS-21040,Vikram Singh,FUR-TA-10000577,Featherlite Ergonomic Training Table,Furniture,Tables,South,Karnataka,Bengaluru,42000,4,0.3,-4500
+IN-2025-105677,15-04-25,19-04-25,RJ-19500,Rohan Joshi,OFF-ST-10000760,Nilkamal Plastic Storage Crates,Office Supplies,Storage,West,Maharashtra,Mumbai,3200,3,0.1,450
+IN-2025-107899,22-05-25,25-05-25,AM-105,Ananya Nair,OFF-PA-10002365,JK Copier A4 Printing Paper Bundle,Office Supplies,Paper,South,Tamil Nadu,Chennai,1250,5,0,350
+IN-2025-109111,11-06-25,14-06-25,DB-13000,Devendra Banerjee,TEC-PH-10001520,Samsung Galaxy M34 5G,Technology,Phones,East,West Bengal,Kolkata,16999,1,0.05,2100
+IN-2025-110222,02-07-25,07-07-25,SM-20015,Sanya Mirza,OFF-AR-10003210,Camel Watercolor Paint Set,Office Supplies,Art,Central,Madhya Pradesh,Bhopal,850,2,0,180
+IN-2025-112333,19-08-25,21-08-25,RC-19800,Rahul Chatterjee,TEC-AC-10004500,SanDisk 64GB Pendrive,Technology,Accessories,East,West Bengal,Kolkata,650,2,0.1,110
+IN-2025-114444,14-09-25,18-09-25,PM-18200,Priya Mishra,FUR-CH-10002100,Supreme Plastic Premium Chairs,Furniture,Chairs,North,Uttar Pradesh,Lucknow,5400,4,0.15,620
+IN-2025-116555,05-10-25,06-10-25,AB-10200,Arjun Bhardwaj,TEC-MA-10009800,HP Laserjet Mono Printer,Technology,Machines,South,Telangana,Hyderabad,14500,1,0.2,-800

@@ -1,0 +1,26 @@
+Step1:
+-----	
+	Collect CSV file.
+
+
+step:
+-----
+ 	Now perform data cleaning.
+	ex:
+		1) Add the filter : CTRL + SHIFT + L
+		2) Check OrderId contains null. 
+		3) Check Cust ID contains null.
+		4) Gender column we have to filter 
+			ex:
+				Now replace M with Men.  --> select only M --> select M values (ctrl+shift+down arrow)
+				--> ctrl + f --> replace
+				---> Find What : M    , Replace with : Men --> Replace All
+
+				Now replace W with Women.  --> select only W --> select W values (ctrl+shift+down arrow) 
+				--> ctrl + f --> replace
+				---> Find What : W    , Replace with : Women --> Replace All
+
+		5) check age  
+		6) goto date and format the data --> click on first cell and press CTRL + 1 --> choose custom -->dd-mm-yy
+		   
+			

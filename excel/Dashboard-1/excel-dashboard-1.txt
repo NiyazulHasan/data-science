@@ -1,0 +1,224 @@
+step:
+-----
+	Keep dataset ready i.e excel sheet.
+	
+
+step:
+----
+	Open the excel sheet and rename sheet name as Data List.
+
+step:
+-----
+	Create a new sheet for dashboard and rename sheet name as Dashboard.
+
+step
+----
+	Drag the Data List sheet to the end sheet.
+
+step:
+-----
+	Create a rounded rectangle shape.
+	ex:
+		Goto insert --> Shapes --> Take rounded rectangle.
+		click on rounded rectangle --> format --> remove shape outline.
+		--> format --> shape fill (take dark color)
+
+step:
+-----
+	Now duplicate the shape.
+	ex:
+		ctrl + d   
+
+		goto format --> shape fill (take light color)
+
+
+step:
+----
+	Goto DataList sheet and select all the data.
+	ex:
+		click any where --> press CTRL+A --> goto insert option -->
+		click on pivot table -->select new worksheet --> ok.
+		
+step:
+----
+	Rename the sheet as Pivot table.
+	
+
+step:
+-----
+	Select on pivotal table --> select Date field --> 
+	Now goto analyse option --> click on time line --> click to Date
+	---> click ok.
+
+step:
+-----
+	To perform extra configurations goto >> options --> disable
+	--> scrollbar, Time Level, Selection Level and later drag the timeline 
+	as needed.
+step:
+----
+	Copy the timeline and paste on dashboard sheet (make adjustment as per
+	disign)
+
+ 
+step:
+----
+	Goto Pivot table sheet --> select table data ---> paste into other cells.
+	--> select the field as Region (remove date) --> click on analyzer tab 
+	--> click on insert slicer --> select region --> ok --> now goto options 
+	--> select columns : 2 --> and resize the slicer as per requirement.
+
+step:
+----
+	Copy and paste the slicer on dashboard sheet and adjust the position.
+	(select the colors from options)
+
+step:
+----
+	Create three button shape left side of the dashboard sheet.
+	(to copy press ctrl + d)
+	ex:
+		goto insert --> shapes --> select the rectangle --> adjust the 
+		corners.
+
+step:
+-----
+	Select all three button shapes and arrange the shapes by using 
+	format option --> Align : align left and Distribute vertically.
+		
+step:
+----
+	Now change the color of first button.
+	ex:
+		shape fill : white 
+		shape outline : take backgroundcolor
+
+step:
+----
+	For other two buttons we need to design according.
+	ex:
+		shape fille : no shape 
+		shape outline : white 
+		adjust weight line : 2 1/4
+
+step:
+----	
+	Now goto first button add dashboard text with black color.
+	now goto second and third button add Reports and About Us text with white 
+	color.
+
+step:
+----
+	copy pivot table and copy into another cells --> uncheck region 
+	--> add items --> click on analyze --> click on insert slicer -->
+	select items --> ok.	
+step:
+-----
+	Goto options and change the columns size as per number of items.
+	ex:
+		column : 8
+
+step:
+----
+	copy and paste the slicer on dashboard sheet and adjust as per the requirement.
+
+step:
+-----
+	Goto view option and unchecked the Gridlines.
+
+step:
+----
+	Goto insert option --> take rounded rectangle shape --> as per the dashboard design.
+
+step:
+-----
+	How to enable  some disable options in excel sheet.
+	ex:
+		goto File --> Options --> advanced  --> check the checkboxes.
+
+
+step:
+----
+	insert the icons as per the design.
+	ex:
+		goto insert option --> insert symbols --> 
+		https://www.flaticon.com/search
+
+step:
+------
+
+	Add Data Analytics between the icons and Total Amount, total Sales, Regional sales, Monthly sales report
+	and product sales report.
+
+step:
+----	
+	Select to pivotal table and paste in another cells --> goto analyze tab and select field list 
+	----> select region and amount --> select the pivotal table --> goto chart --> select any bar chart (3D bar chart).
+	--> goto design option --> change the chart color as per requirement. --->
+	right click on region button --> hide all the fields buttons from chart, remove extra labels from chart -->
+	click on plus symbol and remove grid lines --> remove shape outline .
+
+step:
+---
+	copy and past the chart in to the dashboard sheet and adjust as per requirement.
+	
+
+step:
+-----
+	select a pivotal table and paste in another cell --> goto analyze table and select field list 
+	-->	select Amount and Date (in date only keep month) -->
+
+	To keep only monthly data --> click on any date of pivotal tabel --> groups --> select months --> ok.
+
+	select the pivotal table --> goto chart --> select any chart (Area chart).
+	--> goto design option --> change the chart color as per requirement. --->
+	right click on region button --> hide all the fields buttons from chart, remove extra labels from chart -->
+	click on plus symbol and remove grid lines --> remove shape outline .
+
+
+
+
+step:
+-----
+	select a pivotal table and paste in another cell --> goto analyze table and select field list 
+	-->	select Amount and Item  -->
+	select the pivotal table --> goto chart --> select any chart (column chart).
+	--> goto design option --> change the chart color as per requirement. --->
+	right click on region button --> hide all the fields buttons from chart, remove extra labels from chart -->
+	click on plus symbol and remove grid lines --> remove shape outline .
+
+
+step:
+-----
+	Format the number with comma.
+
+	ex:
+
+	select a pivotal table and paste in another cell --> goto analyze table and select field list 
+	-->	select only Amount  -->
+	
+	1239310 | =(select on left cell and press enter) --> Two number format --> goto numbers group -->
+	Number --> select decimal -->select 1000 seperators(,) -->  choose decimal places : 0 --> ok.
+
+
+step:
+------
+	select a pivotal table and paste in another cell --> goto analyze table and select field list 
+	-->	select value field setting  --> select count --> ok
+	61 | =(select on left cell and press enter).
+
+step:
+----
+	Goto dashboard sheet --> create a new text field inside (product sales sheet) --> goto formulea bar and press = -->
+	goto pivot table sheet --> select total amount cell --> press enter --> set to Total Amount cell.
+
+
+
+
+
+
+
+
+
+
+
